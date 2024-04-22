@@ -4,3 +4,6 @@ It is the data collection tools of a 'Digitization of Ethnic Languages ​​of 
 It is noted that Dream71 is working on the digitization of 40 languages ​​under the 'Bangla Language Enrichment through Information Technology' project under the Bangladesh Computer Council.
 
 
+# Few software preview, Image abd Screenshots are given below-
+
+![Dashboard 1](https://raw.githubusercontent.com/raihansarkar567/Digitization-of-Ethnic-Languages-of-Bangladesh/main/1.png "Dashboard 1")
